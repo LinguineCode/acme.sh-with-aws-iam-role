@@ -16,6 +16,6 @@ seanscottking\acme.sh-with-aws-iam-role \
 ```
 
 ### Credits
-  *. https://github.com/Neilpang/acme.sh
-  *. https://github.com/FernandoMiguel
-  *. https://github.com/myoung34
+  * https://github.com/Neilpang/acme.sh
+  * https://github.com/FernandoMiguel
+  * https://github.com/myoung34
