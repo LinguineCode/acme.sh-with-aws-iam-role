@@ -1,4 +1,4 @@
-FROM neilpang/acme.sh
+FROM neilpang/acme.sh:alias
 
 ENV AWS_ROLE_ARN $AWS_ROLE_ARN
 ENV AWS_ROLE_NAME $AWS_ROLE_NAME
